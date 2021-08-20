@@ -1,0 +1,10 @@
+.imgs-class{
+    display: none;
+    width: 240px;
+    margin: 2rem auto;
+    border-radius: 0.5rem;
+  }
+ #video {
+    display: none;
+    margin: 2rem auto;
+  }
